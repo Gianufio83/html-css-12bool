@@ -11,16 +11,3 @@
 /* .interno-destro .col-2 {
   border: 1px solid white;
 } */
-.ultimo .col-6 [class*="col-"] {
-  border: 2px solid white;
-  height: 300px;
-  background-color: rgb(185, 76, 82);
-  /* padding: 10px; */
-}
-.col-6 .container {
-  padding: 10px;
-  border:2px solid white;
-}
-.container .col-8 {
-  padding: 20px;
-}

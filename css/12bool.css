@@ -102,12 +102,12 @@ body {
   margin-left: calc((100% / 12) * 11)
 }
 /* /col-offset */
+
 .ultimo .col-6 [class*="col-"] {
   border: 2px solid white;
   height: 300px;
   background-color: rgb(185, 76, 82);
 }
-
 .col-6 .container {
   /* padding: 10px; */
   border:2px solid white;
