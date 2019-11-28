@@ -102,18 +102,18 @@ body {
   margin-left: calc((100% / 12) * 11)
 }
 /* /col-offset */
-/* .ultimo-container {
-  min-width: 1170px;
-  margin: 0 auto;
-} */
-/* .ultimo-container::after {
-  content:"";
-  display: table;
-  clear:both;
-} */
-/* .container-sinistro {
-  float:left;
+.ultimo .col-6 [class*="col-"] {
+  border: 2px solid white;
+  height: 300px;
+  background-color: rgb(185, 76, 82);
 }
-.container-destro: {
-  float:right;
+
+.col-6 .container {
+  /* padding: 10px; */
+  border:2px solid white;
+}
+/* .container .col-8,
+.container .col-2,
+.container .col-6 {
+  padding: 15px;
 } */

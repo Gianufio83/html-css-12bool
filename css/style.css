@@ -6,11 +6,21 @@
   text-shadow:1px 1px 2px rgb(80, 75, 80);
 }
 .ultimo {
-  padding: 10px;
+  padding: 15px;
 }
 /* .interno-destro .col-2 {
   border: 1px solid white;
 } */
-.ultimo-container .container-sinistro> .col-2 {
-  border: 1px solid red;
+.ultimo .col-6 [class*="col-"] {
+  border: 2px solid white;
+  height: 300px;
+  background-color: rgb(185, 76, 82);
+  /* padding: 10px; */
+}
+.col-6 .container {
+  padding: 10px;
+  border:2px solid white;
+}
+.container .col-8 {
+  padding: 20px;
 }
