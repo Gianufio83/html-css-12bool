@@ -5,3 +5,12 @@
   font-size: 20px;
   text-shadow:1px 1px 2px rgb(80, 75, 80);
 }
+.ultimo {
+  padding: 10px;
+}
+/* .interno-destro .col-2 {
+  border: 1px solid white;
+} */
+.ultimo-container .container-sinistro> .col-2 {
+  border: 1px solid red;
+}
